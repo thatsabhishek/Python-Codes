@@ -8,5 +8,5 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 
 ## List of Programs
 - [Searching](./searching)
-  - [Binary Search](./searching/binarysearch)
-  - [Linear Search](./searching/linearsearch)
+  - [Binary Search](./searching/binarysearch.py)
+  - [Linear Search](./searching/linearsearch.py)
