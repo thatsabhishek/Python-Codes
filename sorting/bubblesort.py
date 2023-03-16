@@ -12,13 +12,8 @@ for i in range(n):
     arr.append(a)
 print()
 
-print("Unsorted Array: ", end='')
-for i in range(n):
-    print(arr[i], end=' ')
-print()
-    
+print("Unsorted Array:", arr)
+
 bubblesort(arr, n)
 
-print("Sorted Array: ", end='')
-for i in range(n):
-    print(arr[i], end=' ')
+print("Sorted Array:", arr)
