@@ -16,9 +16,7 @@ for i in range(n):
     arr.append(int(input("Enter number: ")))
 x = int(input("Element you want to search: "))
 
-print("Entered Array:")
-for i in range(n):
-    print(arr[i], end=' ')
+print("Entered Array:", arr)
 print()
     
 search = linearSearch(arr, n, x)
