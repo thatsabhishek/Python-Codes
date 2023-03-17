@@ -1,5 +1,4 @@
 # Python Codes
-
 This repository is the collection of various types of cool programs written in the Python language. 
 
 The list below contains links to the specific programs.
