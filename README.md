@@ -12,4 +12,5 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Sorting](./sorting)
   - [Bubble Sort](./sorting/bubblesort.py)
   - [Insertion Sort](./sorting/insertionsort.py)
+  - [Quick Sort](./sorting/quicksort.py)
   - [Selection Sort](./sorting/selectionsort.py)
