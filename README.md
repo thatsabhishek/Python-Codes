@@ -17,3 +17,4 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Selection Sort](./sorting/selectionsort.py)
 - [Other Programs](./otherprograms)
   - [Prime number or not](./otherprograms/primenumber.py)
+  - [Prime numbers upto n](./otherprograms/primenumupton.py)
