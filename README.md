@@ -17,6 +17,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Selection Sort](./sorting/selectionsort.py)
 - [Other Programs](./otherprograms)
   - [Armstrong number or not](./otherprograms/armstrongnumber.py)
+  - [GCD of 2 number](./otherprograms/gcd.py)
   - [Factorial of a number](./otherprograms/factorial.py)
   - [Fibonacci Series](./otherprograms/fibonacci.py)
   - [Leap Year or not](./otherprograms/leapyear.py)
