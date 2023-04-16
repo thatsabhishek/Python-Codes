@@ -23,3 +23,5 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Leap Year or not](./otherprograms/leapyear.py)
   - [Prime number or not](./otherprograms/primenumber.py)
   - [Prime numbers upto n](./otherprograms/primenumupton.py)
+
+# Star this Repo ⭐ !!!
