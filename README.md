@@ -21,6 +21,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Factorial of a number](./otherprograms/factorial.py)
   - [Fibonacci Series](./otherprograms/fibonacci.py)
   - [Leap Year or not](./otherprograms/leapyear.py)
+  - [Palindrome or not](./otherprograms/palindrome.py)
   - [Prime number or not](./otherprograms/primenumber.py)
   - [Prime numbers upto n](./otherprograms/primenumupton.py)
   - [Sum of all elements in an Array](./otherprograms/arraysum.py)
