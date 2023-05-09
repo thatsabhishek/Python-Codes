@@ -25,5 +25,6 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Prime number or not](./otherprograms/primenumber.py)
   - [Prime numbers upto n](./otherprograms/primenumupton.py)
   - [Sum of all elements in an Array](./otherprograms/arraysum.py)
+  - [Sum of n Natural Numbers](./otherprograms/sumofnnaturalnumbers.py)
 
 # Star this Repo ⭐ !!!
