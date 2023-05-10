@@ -1,4 +1,4 @@
-#  Program to draw line chart of sin()
+#  Program to draw line chart of sin() & cos(x)
 
 import matplotlib.pyplot as p
 import numpy as n

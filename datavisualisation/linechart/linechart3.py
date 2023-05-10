@@ -1,4 +1,4 @@
-# Program to form any Algebra line using numpy.
+# Program to form any Algebric Equation using numpy.
 
 import matplotlib.pyplot as p
 import numpy as n

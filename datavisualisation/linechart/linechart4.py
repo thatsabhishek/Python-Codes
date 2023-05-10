@@ -1,4 +1,4 @@
-# Program to draw different line styles with multiple colors.
+# Program to draw different line styles with different colors.
 
 import matplotlib.pyplot as p
 import numpy as n
