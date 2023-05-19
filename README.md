@@ -36,6 +36,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Insertion Sort](./sorting/insertionsort.py)
   - [Merge Sort](./sorting/mergesort.py)
   - [Quick Sort](./sorting/quicksort.py)
+  - [Radix Sort](./sorting/radixsort.py)
   - [Selection Sort](./sorting/selectionsort.py)
 - [Other Programs](./otherprograms)
   - [Armstrong number or not](./otherprograms/armstrongnumber.py)
