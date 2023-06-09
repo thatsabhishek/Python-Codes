@@ -54,6 +54,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Bucket Sort](./sorting/bucketsort.py)
   - [Counting Sort](./sorting/countingsort.py)
   - [Cycle Sort](./sorting/cyclesort.py)
+  - [Heap Sort](./sorting/heapsort.py)
   - [Insertion Sort](./sorting/insertionsort.py)
   - [Merge Sort](./sorting/mergesort.py)
   - [Quick Sort](./sorting/quicksort.py)
